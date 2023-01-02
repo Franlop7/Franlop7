@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Fran López</h1>
-<h3 align="center">Soy un apasionado de la tecnología y la programación, ahora me estoy enfocando más en la parte del Front-End</h3>
+<h3 align="center">Soy un apasionado de la tecnología y la programación, enfocando en la parte del Front-End</h3>
 
 - 💬 Ask me about **html, css, javascript, reactjs y angular**
 

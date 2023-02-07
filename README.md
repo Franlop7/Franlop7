@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Fran López</h1>
-<h3 align="center">I am passionate about technology and programming, Jr Front-End Developer</h3>
+<h3 align="center">I'm passionate about technology and programming, Jr Front-End Developer</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Reactjs and everything related to the front-end**
 

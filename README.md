@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Me llamo Fran López</h1>
-<h3 align="center">Soy un apasionado de la tecnología y la programación, Jr Front-End Developer</h3>
+<h1 align="center">Hi 👋, My name is Fran López</h1>
+<h3 align="center">I am passionate about technology and programming, Jr Front-End Developer</h3>
 
-- 💬 Ask me about **html, css, javascript, reactjs y angular**
+- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs and everything related to the front-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

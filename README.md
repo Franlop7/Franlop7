@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, My name is Fran López</h1>
-<h3 align="center">I'm passionate about technology and programming, Jr Front-End Developer</h3>
+<h1>Hey! 👋, This is Fran</h1>
+<h2>Front-End Developer</h2>
+<h3>I'm passionate about technology and programming</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Reactjs and everything related to the front-end**
+- I love [React](https://react.dev/) and [Astro](https://docs.astro.build/)
+- 🏗️ I am currently working full time as a computer systems and network administrator.
+- I'm Looking for my first developer role.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
